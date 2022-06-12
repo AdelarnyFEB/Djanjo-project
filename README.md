@@ -1,2 +1,2 @@
 # Djanjo-project
-Assignment
+Assignment on Django
